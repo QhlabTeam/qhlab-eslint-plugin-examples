@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "workspace",
+      "path": "."
+    },
+    {
+      "name": "vue",
+      "path": "./vue"
+    },
+    {
+      "name": "vue3",
+      "path": "./vue3"
+    },
+    {
+      "name": "react17",
+      "path": "./react17"
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  }
+}

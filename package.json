@@ -1,0 +1,11 @@
+{
+  "name": "qhlab-eslint-plugin-examples",
+  "author": "Yoki Yu <yokiyuqian@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "vue",
+    "vue3",
+    "react"
+  ]
+}
