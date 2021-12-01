@@ -15,9 +15,16 @@
     {
       "name": "react17",
       "path": "./react17"
+    },
+    {
+      "name": "react17-ts",
+      "path": "./react17-ts"
     }
   ],
   "settings": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
   }
 }
